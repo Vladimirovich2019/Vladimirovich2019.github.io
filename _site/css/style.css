@@ -1,0 +1,18 @@
+body {
+    background-color: #adc3e0;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    color: #532f2f;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #372f53;
+    font-size: larger;
+    font-weight: 300;
+}
